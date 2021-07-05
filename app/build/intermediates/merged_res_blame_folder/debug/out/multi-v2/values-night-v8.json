@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/shubhamsmac/AndroidStudioProjects/ConstraintLayoutsYou1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
+            "outputFile": "/Users/shubhamsmac/AndroidStudioProjects/Constraint_Layout_And_CardView_You1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/Users/shubhamsmac/AndroidStudioProjects/ConstraintLayoutsYou1/app/src/main/res/values-night/themes.xml",
+                    "source": "/Users/shubhamsmac/AndroidStudioProjects/Constraint_Layout_And_CardView_You1/app/src/main/res/values-night/themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

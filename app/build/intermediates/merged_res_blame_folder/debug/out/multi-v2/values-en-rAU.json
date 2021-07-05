@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/shubhamsmac/AndroidStudioProjects/ConstraintLayoutsYou1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "/Users/shubhamsmac/AndroidStudioProjects/Constraint_Layout_And_CardView_You1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
                     "source": "/Users/shubhamsmac/.gradle/caches/transforms-2/files-2.1/cc5e9dcdc56dc39042f72c501235e83f/core-1.5.0/res/values-en-rAU/values-en-rAU.xml",
