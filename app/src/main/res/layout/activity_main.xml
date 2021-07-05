@@ -181,12 +181,12 @@
         android:id="@+id/tv3"
         android:layout_width="44dp"
         android:layout_height="43dp"
-        android:layout_marginStart="328dp"
+        android:layout_marginStart="332dp"
         android:background="@drawable/ic_facebook1"
         android:gravity="center"
         android:textStyle="bold"
         app:layout_constraintStart_toStartOf="@id/btn2"
-        tools:layout_editor_absoluteY="420dp" />
+        tools:layout_editor_absoluteY="440dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 
